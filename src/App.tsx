@@ -1,9 +1,8 @@
-import { MenuItem } from "./components/MenuItem";
-import { OrderContets } from "./components/OrderContets";
+import { MenuItem, OrderContets, OrderTotals, TipPercentageForm } from "./components/index";
 import { menuItems } from "./data/db";
 import { useOrder } from "./hooks/useOrder";
-import { OrderTotals } from "./components/OrderTotals";
-import { TipPercentageForm } from "./components/TipPercentageForm";
+
+
 
 function App() {
   const { addItem, order, removeItem, tip, setTip, placeOrder } = useOrder();
