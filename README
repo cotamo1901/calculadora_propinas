@@ -1,0 +1,21 @@
+# calculadora_propinas  
+
+Esta aplicación tiene un menú, el cual, al seleccionar, calcula la orden; Dependiendo de cuál se seleccione, si quiere aplicar propina, se le agrega propina y, finalizando, muestra el total a pagar. 
+
+---
+
+## Tecnologías utilizadas
+
+- **React**: La biblioteca de JavaScript para construir interfaces de usuario.
+- **Tailwind**: Para la gestión de rutas en la aplicación.
+- **Vite** (si lo usas): Para el manejo del estado global de la aplicación.
+
+
+---
+
+## Instalación
+
+1. Clona este repositorio a tu máquina local:
+
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
